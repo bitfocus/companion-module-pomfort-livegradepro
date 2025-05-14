@@ -1,0 +1,6 @@
+node_modules/
+/pkg
+/pkg.tgz
+/DEBUG-*
+node_modules/
+package-lock.json
